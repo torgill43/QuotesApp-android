@@ -1,7 +1,4 @@
 # Overview
-
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 Purpose: Learn basics of creating an android mobile app using Android Studios. 
 
 Description: Simple app to display some of my favorite quotes that I've collected over time. 
@@ -23,7 +20,7 @@ Language: Kotlin
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Android Basics (by Google)][(https://developer.android.com/courses/android-basics-compose/course?authuser=1)
+* [Android Basics by Google][(https://developer.android.com/courses/android-basics-compose/course?authuser=1)
 
 # Future Work
 
