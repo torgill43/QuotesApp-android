@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="quote01">"It's not a lesson learned unless it's a behavior changed."</string>
+    <string name="author01">"- Richie Norton"</string>
+    <string name="quote02">"The storm is not where you face the enemy. The storm is where you meet God."</string>
+    <string name="author02">"- Follow Him Podcast"</string>
+    <string name="quote03">"When you come to the edge of all the light you have, and must take a step into the darkness of the unknown, believe that one of two things will happen. Either there will be something solid for you to stand on - or you will be taught how to fly."</string>
+    <string name="author03">"- Patrick Overton"</string>
+    <string name="quote04">"Just like weeds in a garden, if we don't address our trials right away, they will grow and become a bigger problem than they should. Take care of things now."</string>
+    <string name="author04">"- Unknown</string>
+    <string name="quote05">"The path following Christ is uphill because He wants to lead us to higher ground."</string>
+    <string name="author05">"- Marci Andersen"</string>
+    <string name="quote06">"If I want to do it, nothing is difficult. If I don't want to do it, nothing is easy."</string>
+    <string name="author06">" - Sifu Shi Yan Ming"</string>
+    <string name="quote07">"One cannot prepare for something while secretly believing it will not happen."</string>
+    <string name="author07">" - Nelson Mandela"</string>
+    <string name="quote08">"It'll be alright in the end. If it's not alright, it's not the end."</string>
+    <string name="author08">" - Unknown"</string>
+    <string name="quote09">"Never look down on someone unless you're complementing their shoes."</string>
+    <string name="author09">" - Unknown"</string>
+    <string name="quote10">"You get what you settle for."</string>
+    <string name="author10">" - Unknown"</string>
+</resources>
