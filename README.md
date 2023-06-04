@@ -8,7 +8,6 @@ Description: Simple app to display some of my favorite quotes that I've collecte
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
-
 IDE: Android Studios
 
 Project Setup:
@@ -18,8 +17,6 @@ Project Setup:
 Language: Kotlin
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 * [Android Basics by Google](https://developer.android.com/courses/android-basics-compose/course?authuser=1)
   * They offer a lot of cool, simple tutorials that walk you through various aspects of Android Studio
 
