@@ -1,5 +1,5 @@
 # Overview
-Purpose: Learn basics of creating an android mobile app using Android Studios. 
+Purpose: Learn basics of creating an android mobile app using Android Studio. 
 
 Description: Simple app to display some of my favorite quotes that I've collected over time. 
 
