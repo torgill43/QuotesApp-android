@@ -20,7 +20,8 @@ Language: Kotlin
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Android Basics by Google][(https://developer.android.com/courses/android-basics-compose/course?authuser=1)
+* [Android Basics by Google](https://developer.android.com/courses/android-basics-compose/course?authuser=1)
+  * They offer a lot of cool, simple tutorials that walk you through various aspects of Android Studio
 
 # Future Work
 
